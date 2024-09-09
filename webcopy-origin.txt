@@ -1,0 +1,268 @@
+Uri: https://codex.su/
+File Name: C:\Downloaded Web Sites\codex.su\index.htm
+Content Type: text/html
+
+Uri: https://codex.su/bitrix24
+File Name: C:\Downloaded Web Sites\codex.su\bitrix24.html
+Content Type: text/html
+
+Uri: https://codex.su/bitrix24/bitrix-24-crm
+File Name: C:\Downloaded Web Sites\codex.su\bitrix24\bitrix-24-crm.html
+Content Type: text/html
+
+Uri: https://codex.su/bitrix24/bitrix-24-market
+File Name: C:\Downloaded Web Sites\codex.su\bitrix24\bitrix-24-market.html
+Content Type: text/html
+
+Uri: https://codex.su/bitrix24/cloud
+File Name: C:\Downloaded Web Sites\codex.su\bitrix24\cloud.html
+Content Type: text/html
+
+Uri: https://codex.su/bitrix24/korobochnaya-versiya
+File Name: C:\Downloaded Web Sites\codex.su\bitrix24\korobochnaya-versiya.html
+Content Type: text/html
+
+Uri: https://codex.su/bitrix24/korobochnaya-versiya/
+File Name: C:\Downloaded Web Sites\codex.su\bitrix24\korobochnaya-versiya\index.htm
+Content Type: text/html
+
+Uri: https://codex.su/bitrix24/price
+File Name: C:\Downloaded Web Sites\codex.su\bitrix24\price.html
+Content Type: text/html
+
+Uri: https://codex.su/bitrix24/support
+File Name: C:\Downloaded Web Sites\codex.su\bitrix24\support.html
+Content Type: text/html
+
+Uri: https://codex.su/contacts
+File Name: C:\Downloaded Web Sites\codex.su\contacts.html
+Content Type: text/html
+
+Uri: https://codex.su/privacy
+File Name: C:\Downloaded Web Sites\codex.su\privacy.html
+Content Type: text/html
+
+Uri: https://codex.su/tilda-blocks-page32726434.min.css?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page32726434.min.css
+Content Type: text/css
+
+Uri: https://codex.su/tilda-blocks-page32726434.min.js?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page32726434.min.js
+Content Type: application/javascript
+
+Uri: https://codex.su/tilda-blocks-page34000848.min.css?t=1703236176
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page34000848.min.css
+Content Type: text/css
+
+Uri: https://codex.su/tilda-blocks-page34000848.min.js?t=1703236176
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page34000848.min.js
+Content Type: application/javascript
+
+Uri: https://codex.su/tilda-blocks-page34025580.min.css?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page34025580.min.css
+Content Type: text/css
+
+Uri: https://codex.su/tilda-blocks-page34025580.min.js?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page34025580.min.js
+Content Type: application/javascript
+
+Uri: https://codex.su/tilda-blocks-page34032601.min.css?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page34032601.min.css
+Content Type: text/css
+
+Uri: https://codex.su/tilda-blocks-page34032601.min.js?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page34032601.min.js
+Content Type: application/javascript
+
+Uri: https://codex.su/tilda-blocks-page39052825.min.css?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page39052825.min.css
+Content Type: text/css
+
+Uri: https://codex.su/tilda-blocks-page39052825.min.js?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page39052825.min.js
+Content Type: application/javascript
+
+Uri: https://codex.su/tilda-blocks-page39057938.min.css?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page39057938.min.css
+Content Type: text/css
+
+Uri: https://codex.su/tilda-blocks-page39057938.min.js?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page39057938.min.js
+Content Type: application/javascript
+
+Uri: https://codex.su/tilda-blocks-page39059501.min.css?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page39059501.min.css
+Content Type: text/css
+
+Uri: https://codex.su/tilda-blocks-page39059501.min.js?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page39059501.min.js
+Content Type: application/javascript
+
+Uri: https://codex.su/tilda-blocks-page39059845.min.css?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page39059845.min.css
+Content Type: text/css
+
+Uri: https://codex.su/tilda-blocks-page39059845.min.js?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page39059845.min.js
+Content Type: application/javascript
+
+Uri: https://codex.su/tilda-blocks-page39060285.min.css?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page39060285.min.css
+Content Type: text/css
+
+Uri: https://codex.su/tilda-blocks-page39060285.min.js?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page39060285.min.js
+Content Type: application/javascript
+
+Uri: https://codex.su/tilda-blocks-page39060639.min.css?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page39060639.min.css
+Content Type: text/css
+
+Uri: https://codex.su/tilda-blocks-page39060639.min.js?t=1696942647
+File Name: C:\Downloaded Web Sites\codex.su\tilda-blocks-page39060639.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&subset=latin,cyrillic
+File Name: C:\Downloaded Web Sites\codex.su\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+File Name: C:\Downloaded Web Sites\codex.su\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+File Name: C:\Downloaded Web Sites\codex.su\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+File Name: C:\Downloaded Web Sites\codex.su\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+File Name: C:\Downloaded Web Sites\codex.su\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+File Name: C:\Downloaded Web Sites\codex.su\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/91642606
+File Name: C:\Downloaded Web Sites\codex.su\watch\91642606
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/highlight.min.css
+File Name: C:\Downloaded Web Sites\codex.su\css\highlight.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\codex.su\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\codex.su\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\codex.su\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\codex.su\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/highlight.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\highlight.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-submenublocks-1.0.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\tilda-submenublocks-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\tilda-zero-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\codex.su\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3762-3435-4763-b361-393938323664/Raleway-Medium.woff
+File Name: C:\Downloaded Web Sites\codex.su\tild3762-3435-4763-b361-393938323664\Raleway-Medium.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3962-6139-4739-b535-353731303565/favicon.ico
+File Name: C:\Downloaded Web Sites\codex.su\tild3962-6139-4739-b535-353731303565\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild6134-3033-4136-a436-323333363430/Raleway-Regular.woff
+File Name: C:\Downloaded Web Sites\codex.su\tild6134-3033-4136-a436-323333363430\Raleway-Regular.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6161-3763-4563-a130-626235313161/Raleway-Light.woff
+File Name: C:\Downloaded Web Sites\codex.su\tild6161-3763-4563-a130-626235313161\Raleway-Light.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6431-6162-4132-a130-346566613064/SuisseIntl-Book.woff
+File Name: C:\Downloaded Web Sites\codex.su\tild6431-6162-4132-a130-346566613064\SuisseIntl-Book.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6466-3839-4531-b462-336532373364/Favicon.png
+File Name: C:\Downloaded Web Sites\codex.su\tild6466-3839-4531-b462-336532373364\Favicon.png
+Content Type: image/png
+
