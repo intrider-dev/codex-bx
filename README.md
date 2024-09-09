@@ -1,6 +1,8 @@
 # codEX Studio - Студия разработки удобных IT-решений
 ### Все права на реализацию принадлежат владельцу исходного сайта: Давид Давоян
-#### Дизайн: Никита Рублев
+#### All rights to the implementation belong to the owner of the original site: David Davoyan
+### Дизайн: Никита Рублев
+#### Design: Nikita Rublev
 <img src="http://intrider.ru/codex-bx-screen.png">
 
 ## Описание проекта
